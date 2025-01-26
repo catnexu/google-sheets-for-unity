@@ -6,12 +6,7 @@
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
-    "precompiledReferences": [
-        "Google.Apis.dll",
-        "Google.Apis.Core.dll",
-        "Google.Apis.Auth.dll",
-        "Google.Apis.Sheets.v4.dll"
-    ],
+    "precompiledReferences": [],
     "autoReferenced": false,
     "defineConstraints": [],
     "versionDefines": [],

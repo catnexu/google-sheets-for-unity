@@ -9,14 +9,14 @@
     ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
-    "overrideReferences": false,
+    "overrideReferences": true,
     "precompiledReferences": [
         "Google.Apis.dll",
         "Google.Apis.Core.dll",
         "Google.Apis.Auth.dll",
         "Google.Apis.Sheets.v4.dll"
     ],
-    "autoReferenced": true,
+    "autoReferenced": false,
     "defineConstraints": [],
     "versionDefines": [],
     "noEngineReferences": false
