@@ -1,0 +1,19 @@
+{
+    "name": "catnexu.gsl",
+    "rootNamespace": "catnexu.gsl",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Google.Apis.dll",
+        "Google.Apis.Core.dll",
+        "Google.Apis.Auth.dll",
+        "Google.Apis.Sheets.v4.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

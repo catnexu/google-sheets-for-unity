@@ -1,0 +1,16 @@
+﻿{
+  "name": "com.catnexu.google-sheets-loader",
+  "version": "0.1.0",
+  "displayName": "Google Sheets Loader",
+  "description": "",
+  "keywords": [
+    "google",
+    "sheet",
+    "unity"
+  ],
+  "author": {
+    "name": "catnexu",
+    "email": "vitalygds@gmail.com"
+  },
+  "license": "MIT"
+}
