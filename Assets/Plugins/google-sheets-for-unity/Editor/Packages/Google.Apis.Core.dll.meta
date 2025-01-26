@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c13a070914684a944bdbe3c77ddf90e2
+guid: 4cb692094fd484d4090c46f2025bf463
 labels:
 - NuGetForUnity
 PluginImporter:
@@ -10,7 +10,7 @@ PluginImporter:
   defineConstraints: []
   isPreloaded: 0
   isOverridable: 0
-  isExplicitlyReferenced: 1
+  isExplicitlyReferenced: 0
   validateReferences: 1
   platformData:
     Android:

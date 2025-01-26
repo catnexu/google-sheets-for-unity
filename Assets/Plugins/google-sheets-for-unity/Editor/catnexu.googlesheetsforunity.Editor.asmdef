@@ -16,7 +16,7 @@
         "Google.Apis.Auth.dll",
         "Google.Apis.Sheets.v4.dll"
     ],
-    "autoReferenced": false,
+    "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
     "noEngineReferences": false
