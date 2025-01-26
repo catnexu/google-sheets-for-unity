@@ -1,11 +1,11 @@
 {
-    "name": "catnexu.gsl",
-    "rootNamespace": "catnexu.gsl",
+    "name": "catnexu.google-sheets-for-unity",
+    "rootNamespace": "catnexu.google-sheets-for-unity",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
-    "overrideReferences": true,
+    "overrideReferences": false,
     "precompiledReferences": [
         "Google.Apis.dll",
         "Google.Apis.Core.dll",
