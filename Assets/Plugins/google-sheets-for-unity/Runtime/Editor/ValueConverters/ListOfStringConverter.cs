@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace catnexu.gsl.Editor.ValueConverters
+namespace catnexu.googlesheetsforunity.Editor
 {
     public class ListOfStringConverter : ValueConverter<List<string>>
     {

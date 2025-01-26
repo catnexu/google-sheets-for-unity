@@ -1,8 +1,12 @@
 {
-    "name": "catnexu.google-sheets-for-unity",
-    "rootNamespace": "catnexu.google-sheets-for-unity",
-    "references": [],
-    "includePlatforms": [],
+    "name": "catnexu.googlesheetsforunity.Editor",
+    "rootNamespace": "catnexu.googlesheetsforunity",
+    "references": [
+        "GUID:e11ff6c444320e6499a6cfd282566a3a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
@@ -12,7 +16,7 @@
         "Google.Apis.Auth.dll",
         "Google.Apis.Sheets.v4.dll"
     ],
-    "autoReferenced": false,
+    "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
     "noEngineReferences": false

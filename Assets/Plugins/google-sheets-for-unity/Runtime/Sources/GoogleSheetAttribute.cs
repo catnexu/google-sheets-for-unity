@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace catnexu.gsl
+namespace catnexu.googlesheetsforunity
 {
     [AttributeUsage(AttributeTargets.Class)]
     public class GoogleSheetAttribute : Attribute

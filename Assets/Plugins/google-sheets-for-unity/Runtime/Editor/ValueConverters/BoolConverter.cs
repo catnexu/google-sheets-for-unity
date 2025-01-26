@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace catnexu.gsl.Editor.ValueConverters
+namespace catnexu.googlesheetsforunity.Editor
 {
     public class BoolConverter : ValueConverter<bool>
     {

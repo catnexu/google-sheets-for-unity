@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace catnexu.gsl
+namespace catnexu.googlesheetsforunity
 {
     public interface ISheetSet { }
 

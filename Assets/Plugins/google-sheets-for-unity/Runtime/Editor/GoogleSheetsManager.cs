@@ -11,7 +11,7 @@ using Google.Apis.Util.Store;
 using UnityEditor;
 using UnityEngine;
 
-namespace catnexu.gsl.Editor
+namespace catnexu.googlesheetsforunity.Editor
 {
     public static class GoogleSheetsManager
     {

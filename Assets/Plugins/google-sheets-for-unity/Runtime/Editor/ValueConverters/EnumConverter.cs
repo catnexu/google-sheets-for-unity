@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace catnexu.gsl.Editor.ValueConverters
+namespace catnexu.googlesheetsforunity.Editor
 {
     public class EnumConverter : ValueConverter<Enum>
     {

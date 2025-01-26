@@ -4,7 +4,7 @@ using UnityEditor.UIElements;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-namespace catnexu.gsl.Editor
+namespace catnexu.googlesheetsforunity.Editor
 {
     [FilePath("Assets/Plugins/GoogleSheetsLoader/" + nameof(GoogleSheetSettings) + ".asset", FilePathAttribute.Location.ProjectFolder)]
     internal sealed class GoogleSheetSettings : ScriptableSingleton<GoogleSheetSettings>

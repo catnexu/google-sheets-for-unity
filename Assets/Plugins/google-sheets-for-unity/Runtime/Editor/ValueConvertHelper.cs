@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace catnexu.gsl.Editor
+namespace catnexu.googlesheetsforunity.Editor
 {
     public static class ValueConvertHelper
     {

@@ -8,7 +8,7 @@ using Google.Apis.Sheets.v4.Data;
 using UnityEditor;
 using UnityEngine;
 
-namespace catnexu.gsl.Editor
+namespace catnexu.googlesheetsforunity.Editor
 {
     public static class GoogleSheetLoader
     {

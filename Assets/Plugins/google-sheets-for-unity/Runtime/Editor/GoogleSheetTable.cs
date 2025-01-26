@@ -1,6 +1,6 @@
 using System;
 
-namespace catnexu.gsl.Editor
+namespace catnexu.googlesheetsforunity.Editor
 {
     [Serializable]
     internal struct GoogleSheetTable
