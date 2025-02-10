@@ -75,7 +75,7 @@ namespace catnexu.googlesheetsforunity.Editor
     {
         private SerializedObject _data;
 
-        [MenuItem("Tools/Utils/Google Sheets/Settings", priority = 1)]
+        [MenuItem(GoogleSheetsPath.MenuPath + "Settings", priority = 1)]
         private static void InitWindow()
         {
             GoogleSheetSettingsWindow window = (GoogleSheetSettingsWindow) EditorWindow.GetWindow(typeof(GoogleSheetSettingsWindow));

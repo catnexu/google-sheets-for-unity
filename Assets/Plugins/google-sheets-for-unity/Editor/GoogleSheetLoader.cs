@@ -25,7 +25,7 @@ namespace catnexu.googlesheetsforunity.Editor
 
         private static readonly IRowConverter s_rowConverter = new GoogleSheetRowConverter();
 
-        [MenuItem("Tools/Utils/Google Sheets/Load from Google")]
+        [MenuItem(GoogleSheetsPath.MenuPath + "Load from Google")]
         public static void LoadSheets()
         {
             List<ScriptableObject> sheetSets = GetOrderedSheetSets();

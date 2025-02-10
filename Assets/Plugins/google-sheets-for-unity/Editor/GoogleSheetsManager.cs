@@ -22,7 +22,7 @@ namespace catnexu.googlesheetsforunity.Editor
 
         public static SheetsService SheetsService => s_service;
 
-        [MenuItem("Tools/Utils/Google Sheets/Auth")]
+        [MenuItem(GoogleSheetsPath.MenuPath + "Auth")]
         public static void AuthGoogle()
         {
             s_tokenPath = Path.Combine(Application.dataPath.Replace("Assets", string.Empty), "googlesheets_token");
